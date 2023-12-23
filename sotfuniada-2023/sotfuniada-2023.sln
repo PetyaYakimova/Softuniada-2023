@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rocket", "Rocket\Rocket.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParentheses", "LongestValidParentheses\LongestValidParentheses.csproj", "{DDB99451-071A-4E53-BCFB-6C9B1FCF2DC1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatrix", "RotateMatrix\RotateMatrix.csproj", "{53BBB4EA-3CBF-49CC-B26C-C398DE49C8D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DDB99451-071A-4E53-BCFB-6C9B1FCF2DC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDB99451-071A-4E53-BCFB-6C9B1FCF2DC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDB99451-071A-4E53-BCFB-6C9B1FCF2DC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53BBB4EA-3CBF-49CC-B26C-C398DE49C8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53BBB4EA-3CBF-49CC-B26C-C398DE49C8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53BBB4EA-3CBF-49CC-B26C-C398DE49C8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53BBB4EA-3CBF-49CC-B26C-C398DE49C8D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
