@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pancakes", "Pancakes\Pancak
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bottom", "Bottom\Bottom.csproj", "{CC1C5DE1-9FF4-492E-8541-84571A61BCB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BiggestFormedNumber", "BiggestFormedNumber\BiggestFormedNumber.csproj", "{2F06C800-C8D6-44E1-B30E-5B2CED9B29FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{CC1C5DE1-9FF4-492E-8541-84571A61BCB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC1C5DE1-9FF4-492E-8541-84571A61BCB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC1C5DE1-9FF4-492E-8541-84571A61BCB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F06C800-C8D6-44E1-B30E-5B2CED9B29FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F06C800-C8D6-44E1-B30E-5B2CED9B29FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F06C800-C8D6-44E1-B30E-5B2CED9B29FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F06C800-C8D6-44E1-B30E-5B2CED9B29FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
