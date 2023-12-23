@@ -140,7 +140,6 @@
                 }
 
                 Console.WriteLine(string.Join("", row));
-
             }
         }
     }
